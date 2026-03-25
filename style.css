@@ -3,7 +3,14 @@ body {
     margin: 40px;
 }
 
+
 audio {
-    display: block;
-    margin-bottom: 20px;
+  width: 100%;
+  max-width: 300px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 300px;
 }
